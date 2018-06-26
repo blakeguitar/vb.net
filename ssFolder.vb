@@ -423,6 +423,6 @@ Public Class ssFolder
 
     End Sub
 
-
+    'This is the end of the class
 
 End Class
