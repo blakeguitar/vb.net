@@ -1,2 +1,5 @@
 # Local git ignore file
-*.out
+*.exe
+*.dll
+
+
